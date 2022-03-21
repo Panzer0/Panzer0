@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 🥝
+I'm Daniel Wieczorek, a 3rd year Computer Science student at the Łódź University of Technology. I'm passionate about artificial intelligence, augmented reality and the Internet of Things. In the free time, I love to engage in indoor climbing, tabletop RPGs, fiction writing and video games. 
+
+### Notable projects 🛠
+|Repository|Description|
+|:---|:---:|
+|[🥝Kiwi Bank](https://github.com/Panzer0/Bank)|Kiwi Bank imitates a basic banking application. It was written in Java and relies on the JavaFX library.|
+|[🏺The Maze of Lorcoss](https://github.com/Panzer0/Multithreaded-game-client)|The Maze of Lorcoss is an old-school terminal-based game. It was written in C and relies on the ncurses library|
+|[📉Life Cycle Analysis](https://github.com/Panzer0/LifeCycleAnalysis)|The program analyses the mathematical aspects of a device's life cycle. It was written in Python|
 
 <!--
 **Panzer0/Panzer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
