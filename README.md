@@ -1,7 +1,7 @@
-### Hi there 🥝
+### 🥝 Hi there 
 I'm Daniel Wieczorek, a 3rd year Computer Science student at the Łódź University of Technology. I'm passionate about artificial intelligence, augmented reality and the Internet of Things. In the free time, I love to engage in indoor climbing, tabletop RPGs, fiction writing and video games. 
 
-### Notable projects 🛠
+### 🛠 Notable projects 
 |Repository|Description|
 |:---|:---:|
 |[🥝Kiwi Bank](https://github.com/Panzer0/Bank)|Kiwi Bank imitates a basic banking application. It was written in Java and relies on the JavaFX library.|
