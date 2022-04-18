@@ -1,6 +1,8 @@
 ### 🥝 Hi there 
 I'm Daniel Wieczorek, a 3rd year Computer Science student at the Łódź University of Technology. I'm passionate about artificial intelligence, augmented reality and the Internet of Things. In the free time, I love to engage in indoor climbing, tabletop RPGs, fiction writing and video games. 
 
+[My LinkedIn profile](https://www.linkedin.com/in/daniel-wieczorek-2357b7210/)
+
 ### 🛠 Notable projects 
 |Repository|Description|
 |:---|:---:|
