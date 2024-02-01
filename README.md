@@ -7,6 +7,7 @@ I'm Daniel Wieczorek, a final year Computer Science student at the Łódź Unive
 |Repository|Description|
 |:---|:---:|
 |[🎓Engineer's Thesis](https://github.com/Panzer0/STT-Dialogue-System)|My engineer's thesis project implements a modular dialogue system navigable by direct input or various voice recognition methods, along with a comparative analysis of the provided algorithms.  It was written in Python and utilises Pandas, JSON and multiple PyTorch-based STT libraries.|
+|[🕸️NeNeLib](https://github.com/Panzer0/Neural-Network/tree/master)|NeNeLib is a library which allows for creation, training and execution of user-defined convolutional and fully-connected neural networks. It was written in Python and the NN functionalities have been implemented from the ground up in NumPy|
 |[🥝Kiwi Bank](https://github.com/Panzer0/Bank)|Kiwi Bank imitates a basic banking application. It was written in Java and relies on the JavaFX library.|
 |[📉Life Cycle Analysis](https://github.com/Panzer0/LifeCycleAnalysis)|The program analyses the mathematical aspects of a device's life cycle. It was written in Python|
 |[⌛EEIA Jam 2022](https://github.com/FruitEaters-Inc/EEIA_Jam_2022)|Delivery drone simulator, a simple incremental game. Group project, our entry for the EEIA Jam contest developed within a 36 hour time limit. It was written in Python and relies on the PyGame library|
